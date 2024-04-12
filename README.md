@@ -1,4 +1,4 @@
-## Marcos Junior
+## Estudante de Sistemas da Informção PUCC
 
 <br>
 
