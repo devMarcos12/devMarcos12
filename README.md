@@ -10,6 +10,7 @@
 
 ###  Main programming languanges
  <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+ <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
  <img align="left" alt="html" src="https://img.icons8.com/color/48/000000/html-5.png"  width="30" height="30" style="max-width:100%;"> 
  <img align="left" alt="css" src="https://img.icons8.com/color/48/000000/css3.png"  width="30" height="30" style="max-width:100%;"> 
  <img align="left" alt="JS" src="https://img.icons8.com/color/48/000000/javascript.png" width="30" height="30" style="max-width:100%;"/>
