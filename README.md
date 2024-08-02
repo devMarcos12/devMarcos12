@@ -1,4 +1,4 @@
-## Estudante de Sistemas da Informação PUCC
+## Estudante de Sistemas de Informação - PUCC
 
 <br>
 
