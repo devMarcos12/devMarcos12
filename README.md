@@ -10,13 +10,12 @@
 
 ###  Main programming languanges
  <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
- <img align="left" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="30" height="30" style="max-width:100%;"/>
 
  
 <br>
 
 ###  Expirience with
- <img align="left" alt="css" src="https://img.icons8.com/color/48/000000/css3.png"  width="30" height="30" style="max-width:100%;"> 
+ <img align="left" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="30" height="30" style="max-width:100%;"/>
  <img align="left" alt="JS" src="https://img.icons8.com/color/48/000000/javascript.png" width="30" height="30" style="max-width:100%;"/>
  <img align="left" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"  width="30" height="30" style="max-width:100%;"> 
  <img align="left" alt="bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30" height="30" style="max-width:100%;"/>
