@@ -1,6 +1,6 @@
 ### print("Hello World!")
 
-I'm Marcos Junior, a software developer student. Currently I'm a Software Developer at Kryptus ED S.A. working with machine learning algorithms and automations.
+I'm Marcos Junior, a software developer student. Currently I'm a Software Developer Intern at Kryptus ED S.A. working with machine learning algorithms and automations.
 
 During my separete time I like to train, run, enjoy astronomy and have fun!
 
